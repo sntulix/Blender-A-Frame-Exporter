@@ -1,5 +1,5 @@
-# Blender to A-Frame Exporter
-Addon Export current scene to A-Frame Html.
+# Blender A-Frame Exporter
+Blender Addon export current scene to A-Frame Html.
 
 # How to
 
