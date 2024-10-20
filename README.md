@@ -9,7 +9,7 @@ BlenderのシーンからA-Frameのhtmlとjavascriptを生成するエクスポ�
 1. このアドオンをインストールします。 
 2. 3D Viewのサイドバーの「Export A-Frame HTML」ボタンを押します。
 3. ターミナルを開いてエクスポートしたフォルダに入って「python3 -m http.server」を実行します。
-4. ブラウザで「http://localhost:8000」を開きます。
+4. ブラウザで「[http://localhost:8000](http://localhost:8000)」を開きます。
 
 ## About
 
@@ -20,7 +20,7 @@ Blender Addon export current scene to A-Frame Html.
 1. Install this addon.
 2. Press "Export A-Frame HTML" on Sidebar of 3D View of Blender Window.
 3. Open Terminal, move to the folder exported, and execute "python3 -m http.server"
-4. Access "http://localhost:8000" with a Browser.
+4. Access "[http://localhost:8000](http://localhost:8000)" with a Browser.
 
 ## スクリーンショット / Screenshot
 
