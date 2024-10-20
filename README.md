@@ -22,6 +22,10 @@ Blender Addon export current scene to A-Frame Html.
 3. Open Terminal, move to the folder exported, and execute "python3 -m http.server"
 4. Access "[http://localhost:8000](http://localhost:8000)" with a Browser.
 
+## サンプル / Sample
+
+[https://www.futuregadget.com/file/aframe_export/](https://www.futuregadget.com/file/aframe_export/)
+
 ## スクリーンショット / Screenshot
 
 ### Blenderシーン / Blender Scene
