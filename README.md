@@ -25,7 +25,9 @@ Blender Addon export current scene to A-Frame Html.
 ## スクリーンショット / Screenshot
 
 ### Blenderシーン / Blender Scene
-![スクリーンショット 2023-11-11 14 48 38](https://github.com/sntulix/Blender-A-Frame-Exporter/assets/616940/60b87fb0-c500-4159-9337-df3910ff6564)
 
-### ブラウザで開いた様子 / A-Frame World generated from above scene
-![スクリーンショット 2023-11-11 14 49 39](https://github.com/sntulix/Blender-A-Frame-Exporter/assets/616940/e2101837-99a5-416f-96a1-86d2d25d49ca)
+<img width="1440" alt="Blenderシーン / Blender Scene" src="https://github.com/user-attachments/assets/b86fb5a4-3c53-4ba4-b6f0-88a054c1d041">
+
+### 上のシーンをエクスポートしてブラウザで開いた様子 / A-Frame World generated from above scene
+
+<img width="1383" alt="ブラウザで開いた様子 / A-Frame World generated from above scene" src="https://github.com/user-attachments/assets/d6a87dc9-7c58-4bb8-a6ea-609555410231">
